@@ -1,0 +1,14 @@
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\bin\Debug\net8.0\Commerce.Infrastructure.deps.json
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\bin\Debug\net8.0\Commerce.Infrastructure.runtimeconfig.json
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\bin\Debug\net8.0\Commerce.Infrastructure.dll
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\bin\Debug\net8.0\Commerce.Infrastructure.pdb
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\Commerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\Commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\Commerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\Commerce.Infrastructure.AssemblyInfo.cs
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\Commerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\Commerce.Infrastructure.dll
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\refint\Commerce.Infrastructure.dll
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\Commerce.Infrastructure.pdb
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\Commerce.Infrastructure.genruntimeconfig.cache
+C:\Users\flore\source\repos\Commerce\Commerce.Infrastructure\obj\Debug\net8.0\ref\Commerce.Infrastructure.dll

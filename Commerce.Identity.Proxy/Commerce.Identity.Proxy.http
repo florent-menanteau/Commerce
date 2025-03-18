@@ -1,0 +1,6 @@
+@Commerce.Identity.Proxy_HostAddress = http://localhost:5233
+
+GET {{Commerce.Identity.Proxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
