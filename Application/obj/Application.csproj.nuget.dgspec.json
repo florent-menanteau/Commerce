@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flore\\source\\repos\\Commerce\\Application\\Application.csproj": {}
+    "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flore\\source\\repos\\Commerce\\Application\\Application.csproj": {
+    "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flore\\source\\repos\\Commerce\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\flore\\source\\repos\\Commerce\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flore\\source\\repos\\Commerce\\Application\\obj\\",
+        "outputPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -23,7 +23,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -31,14 +31,14 @@
           "https://nuget.pkg.github.com/TotalEnergiesCode/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj"
+              "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj"
               },
-              "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce\\Commerce.csproj": {
-                "projectPath": "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce\\Commerce.csproj"
+              "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj": {
+                "projectPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj"
               }
             }
           }
@@ -56,8 +56,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj": {
+    "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
         "projectName": "Commerce.Infrastructure",
-        "projectPath": "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -103,7 +103,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -111,8 +111,8 @@
           "https://nuget.pkg.github.com/TotalEnergiesCode/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -129,8 +129,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -167,14 +167,14 @@
         }
       }
     },
-    "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce\\Commerce.csproj": {
+    "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce\\Commerce.csproj",
+        "projectUniqueName": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj",
         "projectName": "Commerce",
-        "projectPath": "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce\\Commerce.csproj",
+        "projectPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj",
         "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flore\\source\\repos\\Commerce\\Commerce\\obj\\",
+        "outputPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -186,7 +186,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -194,8 +194,8 @@
           "https://nuget.pkg.github.com/TotalEnergiesCode/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -212,8 +212,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

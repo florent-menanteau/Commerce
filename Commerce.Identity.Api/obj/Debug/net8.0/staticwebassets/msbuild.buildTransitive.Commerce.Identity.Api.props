@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Commerce.Identity.Api.props" />
-</Project>
