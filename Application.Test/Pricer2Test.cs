@@ -100,7 +100,7 @@ namespace Application.Test
         [TestMethod]
         public void Should_Throw()
         {
-            // Arrange
+            // Arrange test
             CartModel cart = new CartModel();
             CartItemModel item1 = new CartItemModel { ProductId = 2, Quantity = 100 };
             cart.AddCardItem(item1);
