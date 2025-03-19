@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\flore\\source\\myOrg\\Commerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8710C835-5611-46A9-85AC-7DBE47691C80}|Commerce.Infrastructure\\Commerce.Infrastructure.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce.infrastructure\\commerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8710C835-5611-46A9-85AC-7DBE47691C80}|Commerce.Infrastructure\\Commerce.Infrastructure.csproj|solutionrelative:commerce.infrastructure\\commerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF34168-596B-41EE-9CEA-DE3AEDDB9CCD}|Commerce.Identity.Api.Tests\\Commerce.Identity.Api.Tests.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce.identity.api.tests\\commerce.identity.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAF34168-596B-41EE-9CEA-DE3AEDDB9CCD}|Commerce.Identity.Api.Tests\\Commerce.Identity.Api.Tests.csproj|solutionrelative:commerce.identity.api.tests\\commerce.identity.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12882F-C2CB-4003-8DD0-0C940EEA9AE0}|Commerce.Identity.Api\\Commerce.Identity.Api.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce.identity.api\\commerce.identity.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC12882F-C2CB-4003-8DD0-0C940EEA9AE0}|Commerce.Identity.Api\\Commerce.Identity.Api.csproj|solutionrelative:commerce.identity.api\\commerce.identity.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7A396-013D-4422-958F-70CFDFB535B9}|Application\\Application.csproj|c:\\users\\flore\\source\\myorg\\commerce\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21F7A396-013D-4422-958F-70CFDFB535B9}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A2E93D9-0BB8-4D4E-AADA-C81EBE2AE870}|Application.Test\\Application.Test.csproj|c:\\users\\flore\\source\\myorg\\commerce\\application.test\\pricer2test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2E93D9-0BB8-4D4E-AADA-C81EBE2AE870}|Application.Test\\Application.Test.csproj|solutionrelative:application.test\\pricer2test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D12C5B-23E3-FB3D-B7AC-CDDB124D7EFB}|Commerce\\Commerce.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce\\commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33D12C5B-23E3-FB3D-B7AC-CDDB124D7EFB}|Commerce\\Commerce.csproj|solutionrelative:commerce\\commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A2E93D9-0BB8-4D4E-AADA-C81EBE2AE870}|Application.Test\\Application.Test.csproj|c:\\users\\flore\\source\\myorg\\commerce\\application.test\\pricertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,32 +67,12 @@
       "RelativeMoniker": "D:0:0:{21F7A396-013D-4422-958F-70CFDFB535B9}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33D12C5B-23E3-FB3D-B7AC-CDDB124D7EFB}|Commerce\\Commerce.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce\\commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{33D12C5B-23E3-FB3D-B7AC-CDDB124D7EFB}|Commerce\\Commerce.csproj|solutionrelative:commerce\\commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4930D49A-DE18-40A3-9521-EFBD1BB70EE0}|Commerce.Api\\Commerce.Api.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce.api\\commerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4930D49A-DE18-40A3-9521-EFBD1BB70EE0}|Commerce.Api\\Commerce.Api.csproj|solutionrelative:commerce.api\\commerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21F7A396-013D-4422-958F-70CFDFB535B9}|Application\\Application.csproj|c:\\users\\flore\\source\\myorg\\commerce\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{21F7A396-013D-4422-958F-70CFDFB535B9}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8710C835-5611-46A9-85AC-7DBE47691C80}|Commerce.Infrastructure\\Commerce.Infrastructure.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce.infrastructure\\commerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8710C835-5611-46A9-85AC-7DBE47691C80}|Commerce.Infrastructure\\Commerce.Infrastructure.csproj|solutionrelative:commerce.infrastructure\\commerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0FB2976-6C68-4A4D-B596-EA535BB74B94}|Commerce.Identity.Proxy\\Commerce.Identity.Proxy.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce.identity.proxy\\commerce.identity.proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D0FB2976-6C68-4A4D-B596-EA535BB74B94}|Commerce.Identity.Proxy\\Commerce.Identity.Proxy.csproj|solutionrelative:commerce.identity.proxy\\commerce.identity.proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAF34168-596B-41EE-9CEA-DE3AEDDB9CCD}|Commerce.Identity.Api.Tests\\Commerce.Identity.Api.Tests.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce.identity.api.tests\\commerce.identity.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AAF34168-596B-41EE-9CEA-DE3AEDDB9CCD}|Commerce.Identity.Api.Tests\\Commerce.Identity.Api.Tests.csproj|solutionrelative:commerce.identity.api.tests\\commerce.identity.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC12882F-C2CB-4003-8DD0-0C940EEA9AE0}|Commerce.Identity.Api\\Commerce.Identity.Api.csproj|c:\\users\\flore\\source\\myorg\\commerce\\commerce.identity.api\\commerce.identity.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AC12882F-C2CB-4003-8DD0-0C940EEA9AE0}|Commerce.Identity.Api\\Commerce.Identity.Api.csproj|solutionrelative:commerce.identity.api\\commerce.identity.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A2E93D9-0BB8-4D4E-AADA-C81EBE2AE870}|Application.Test\\Application.Test.csproj|c:\\users\\flore\\source\\myorg\\commerce\\application.test\\application.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -108,7 +108,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,192 +121,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ICartService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ICartService.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ICartService.cs",
-              "RelativeToolTip": "Application\\Services\\ICartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:55.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICartPricer.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\ICartPricer.cs",
-              "RelativeDocumentMoniker": "Application\\ICartPricer.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\ICartPricer.cs",
-              "RelativeToolTip": "Application\\ICartPricer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:53.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\CartService.cs",
-              "RelativeToolTip": "Application\\Services\\CartService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAArwBkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:51.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PricingProvider.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\PricingProvider.cs",
-              "RelativeDocumentMoniker": "Application\\PricingProvider.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\PricingProvider.cs",
-              "RelativeToolTip": "Application\\PricingProvider.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:43.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PricerTest.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application.Test\\PricerTest.cs",
-              "RelativeDocumentMoniker": "Application.Test\\PricerTest.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application.Test\\PricerTest.cs",
-              "RelativeToolTip": "Application.Test\\PricerTest.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAgwF0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:54:46.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Pricer2Test.cs",
               "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application.Test\\Pricer2Test.cs",
               "RelativeDocumentMoniker": "Application.Test\\Pricer2Test.cs",
               "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application.Test\\Pricer2Test.cs",
               "RelativeToolTip": "Application.Test\\Pricer2Test.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAgwHAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T15:55:15.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T15:26:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CartPricer.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\CartPricer.cs",
-              "RelativeDocumentMoniker": "Application\\CartPricer.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\CartPricer.cs",
-              "RelativeToolTip": "Application\\CartPricer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:45.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ICustomerService.cs",
-              "RelativeToolTip": "Application\\Services\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:49.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\CustomerService.cs",
-              "RelativeToolTip": "Application\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAArwBUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:47.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\IProductService.cs",
-              "RelativeToolTip": "Application\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:40.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T16:02:10.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Commerce",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj",
-              "RelativeDocumentMoniker": "Commerce\\Commerce.csproj",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj",
-              "RelativeToolTip": "Commerce\\Commerce.csproj",
+              "Title": "Commerce.Identity.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Identity.Api\\Commerce.Identity.Api.csproj",
+              "RelativeDocumentMoniker": "Commerce.Identity.Api\\Commerce.Identity.Api.csproj",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Identity.Api\\Commerce.Identity.Api.csproj",
+              "RelativeToolTip": "Commerce.Identity.Api\\Commerce.Identity.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T16:01:51.586Z",
+              "WhenOpened": "2025-03-14T15:12:30.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Commerce.Api",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Api\\Commerce.Api.csproj",
-              "RelativeDocumentMoniker": "Commerce.Api\\Commerce.Api.csproj",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Api\\Commerce.Api.csproj",
-              "RelativeToolTip": "Commerce.Api\\Commerce.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T15:27:30.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Commerce.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
-              "RelativeToolTip": "Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T15:28:01.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "Commerce.Identity.Api.Tests",
               "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Identity.Api.Tests\\Commerce.Identity.Api.Tests.csproj",
               "RelativeDocumentMoniker": "Commerce.Identity.Api.Tests\\Commerce.Identity.Api.Tests.csproj",
@@ -319,15 +172,175 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Application",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
+              "DocumentIndex": 0,
+              "Title": "Commerce.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
+              "RelativeToolTip": "Commerce.Infrastructure\\Commerce.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T15:26:56.048Z",
+              "WhenOpened": "2025-03-18T15:28:01.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Commerce",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj",
+              "RelativeDocumentMoniker": "Commerce\\Commerce.csproj",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce\\Commerce.csproj",
+              "RelativeToolTip": "Commerce\\Commerce.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T16:01:51.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PricerTest.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application.Test\\PricerTest.cs",
+              "RelativeDocumentMoniker": "Application.Test\\PricerTest.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application.Test\\PricerTest.cs",
+              "RelativeToolTip": "Application.Test\\PricerTest.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwF0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:54:46.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartPricer.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\CartPricer.cs",
+              "RelativeDocumentMoniker": "Application\\CartPricer.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\CartPricer.cs",
+              "RelativeToolTip": "Application\\CartPricer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:45.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PricingProvider.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\PricingProvider.cs",
+              "RelativeDocumentMoniker": "Application\\PricingProvider.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\PricingProvider.cs",
+              "RelativeToolTip": "Application\\PricingProvider.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:43.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\CartService.cs",
+              "RelativeToolTip": "Application\\Services\\CartService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICartPricer.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\ICartPricer.cs",
+              "RelativeDocumentMoniker": "Application\\ICartPricer.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\ICartPricer.cs",
+              "RelativeToolTip": "Application\\ICartPricer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:53.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ICartService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ICartService.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ICartService.cs",
+              "RelativeToolTip": "Application\\Services\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:55.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Application\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:49.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "Application\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:40.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:02:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Commerce.Api",
+              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Api\\Commerce.Api.csproj",
+              "RelativeDocumentMoniker": "Commerce.Api\\Commerce.Api.csproj",
+              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Api\\Commerce.Api.csproj",
+              "RelativeToolTip": "Commerce.Api\\Commerce.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T15:27:30.032Z",
               "EditorCaption": ""
             },
             {
@@ -345,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Commerce.Identity.Proxy.csproj",
               "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Identity.Proxy\\Commerce.Identity.Proxy.csproj",
               "RelativeDocumentMoniker": "Commerce.Identity.Proxy\\Commerce.Identity.Proxy.csproj",
@@ -354,19 +367,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-14T16:09:18.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Commerce.Identity.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Identity.Api\\Commerce.Identity.Api.csproj",
-              "RelativeDocumentMoniker": "Commerce.Identity.Api\\Commerce.Identity.Api.csproj",
-              "ToolTip": "C:\\Users\\flore\\source\\myOrg\\Commerce\\Commerce.Identity.Api\\Commerce.Identity.Api.csproj",
-              "RelativeToolTip": "Commerce.Identity.Api\\Commerce.Identity.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T15:12:30.16Z",
               "EditorCaption": ""
             },
             {
